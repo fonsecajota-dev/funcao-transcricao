@@ -1,0 +1,4 @@
+# netlify.toml
+[build]
+  # Diretório onde o Netlify encontrará as funções para construir.
+  functions = "netlify/functions"
